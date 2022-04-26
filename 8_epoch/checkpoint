@@ -1,0 +1,2 @@
+model_checkpoint_path: "spyramid_8_epoch"
+all_model_checkpoint_paths: "spyramid_8_epoch"
